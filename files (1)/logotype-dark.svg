@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <rect width="200" height="60" fill="#0f1e3d"/>
+  <circle cx="30" cy="30" r="20" fill="#3b82f6"/>
+  <text x="30" y="35" font-family="Arial, sans-serif" font-weight="700" font-size="13" fill="white" text-anchor="middle">Q5</text>
+  <text x="68" y="28" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="white">QA5WL</text>
+  <text x="69" y="43" font-family="Arial, sans-serif" font-size="10" letter-spacing="2" fill="#a0bde0">PAYMENTS</text>
+</svg>
